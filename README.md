@@ -11,3 +11,5 @@
 
 ## 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=あなたのユーザー名&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hamakazu0219&layout=compact)
+![Visitor Count](https://komarev.com/ghpvc/?username=Hamakazu0219)
