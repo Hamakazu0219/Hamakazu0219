@@ -5,4 +5,4 @@
 - Git/GitHub
 
 ## 📫 連絡先
-- Twitter: [[@example](https://x.com/k_hamada_0219)]
+- Twitter: [[@はまかず](https://x.com/k_hamada_0219)]
